@@ -1,0 +1,101 @@
+h1 {
+  text-align: left;
+  margin-left: 125px;
+  margin-bottom: 0px;
+  font-style: italic;
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: left;
+  margin-left: 125px;
+  margin-bottom: 0px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+h3 {
+  color: rgb(20, 9, 92);
+  font-size: 15px;
+  text-align: center;
+}
+ul {
+  margin-top: 20px;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 0;
+  padding-left: 10px;
+  font-size: 18px;
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  border: 1 px solid rgb(205, 237, 246) 45.1%;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 900px;
+  margin: 20px auto;
+  background: radial-gradient(
+    circle at 7.4% 45.1%,
+    rgb(236, 206, 251) 0%,
+    rgb(205, 237, 246) 45.1%,
+    rgb(227, 251, 252) 78.4%,
+    rgb(230, 247, 235) 90%
+  );
+}
+
+.search-form {
+  margin: 20px;
+  padding-left: 110px;
+  padding-top: 10px;
+  padding-right: 105px;
+}
+
+.float-left {
+  display: inline;
+}
+
+.temperature {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 65px;
+  font-weight: 100;
+}
+
+.units {
+  position: relative;
+  top: -35px;
+}
+
+.weather-image {
+  width: 170px;
+  margin-left: 20px;
+  margin-top: -34px;
+}
+
+.week-weather {
+  width: 60px;
+  position: relative;
+  right: -6px;
+}
+
+.week-container {
+  margin: 0px 125px;
+  padding-bottom: 20px;
+}
+
+.temperature-link {
+  position: relative;
+  right: -20px;
+  text-align: center;
+  font-size: 15px;
+}
