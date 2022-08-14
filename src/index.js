@@ -44,7 +44,7 @@ function showData(response) {
   let humid = document.querySelector("#humidity");
   humid.innerHTML = `Humidity: ${humidity}%`;
   let windSpeed = document.querySelector("#wind");
-  windSpeed.innerHTML = `Wind: ${wind}km/h`;
+  windSpeed.innerHTML = `Wind: ${wind} km/h`;
 }
 
 function searchCity(event) {
