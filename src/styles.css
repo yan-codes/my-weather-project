@@ -11,12 +11,12 @@ h2 {
   text-align: left;
   margin-left: 125px;
   margin-bottom: 0px;
-  font-style: italic;
-  font-weight: 100;
+  font-weight: 300;
+  color: rgb(85, 84, 84);
 }
 
 h3 {
-  color: rgb(20, 9, 92);
+  color: rgb(85, 84, 84);
   font-size: 15px;
   text-align: center;
 }
@@ -26,6 +26,7 @@ ul {
 }
 
 li {
+  color: rgb(85, 84, 84);
   margin-top: 0;
   padding-left: 10px;
   font-size: 18px;
@@ -98,4 +99,5 @@ a {
   right: -20px;
   text-align: center;
   font-size: 15px;
+  color: rgb(85, 84, 84);
 }
