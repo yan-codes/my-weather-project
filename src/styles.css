@@ -102,3 +102,10 @@ a {
   font-size: 15px;
   color: rgb(85, 84, 84);
 }
+
+.project-link {
+  margin: 0 auto;
+  font-size: 12px;
+  text-align: center;
+  color: blue;
+}
